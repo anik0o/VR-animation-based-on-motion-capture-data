@@ -1,7 +1,6 @@
 # VR-animation-based-on-motion-capture-data
 Repository contains materials and demo of vehicle VR animation made in Unity
-
-[![Watch the video]()](https://youtu.be/FTJzLhoXHhI)
+[![Watch the video](https://img.youtube.com/vi/FTJzLhoXHhI/0.jpg)](https://youtu.be/FTJzLhoXHhI)
 
 
 https://youtu.be/XcaEFZgEe-Y

@@ -1,7 +1,8 @@
 # VR-animation-based-on-motion-capture-data
 Repository contains materials and demo of vehicle VR animation made in Unity
 
-![Curve_to_the_left_VRanimation_demo-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/bbcb613f-1bfd-4626-b714-f10606d95d7c)
+
+![Curve_to_the_left_VRanimation_demo-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/6a0b9712-ea86-4cd6-aa92-6043be918161)
 
 ![Curve_to_the_right_VRanimation_demo-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f32aa6a4-9801-4b81-ad7f-7599cbc72b61)
 
